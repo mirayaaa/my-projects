@@ -1,0 +1,37 @@
+section {
+    
+}
+#app {
+    background-color: darkseagreen;
+    padding: 2% 5%;
+}
+#game {
+    background-color: #C0D7BB;
+    padding: 2% 5%;
+} 
+#chatbot {
+    background-color: #50455E;
+    padding: 2% 5%;
+}
+h1 {
+    margin: 0px;
+    padding: 20px;
+    font-variant: small-caps;
+    font-size: 35px;
+    font-weight: 300;
+    
+}
+hr {
+    margin-bottom: 20px;
+}
+#chatbot iframe {
+   padding: 20px; 
+}
+#app iframe {
+   padding: 20px; 
+}
+#game img {
+    width: 35%;
+    padding: 20px;
+    
+}
